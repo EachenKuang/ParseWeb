@@ -1,0 +1,145 @@
+<w:tr w:rsidR="008A05F8" w:rsidTr="00780387">
+	<w:trPr>
+		<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+		<w:trHeight w:val="240"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:cnfStyle w:val="001000000000" w:firstRow="0" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+			<w:tcW w:w="2689" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRPr="00024F56" w:rsidRDefault="008A05F8" w:rsidP="00780387">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_type}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:cnfStyle w:val="000010000000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="1" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+			<w:tcW w:w="992" w:type="dxa"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRPr="00551C7F" w:rsidRDefault="0007797F" w:rsidP="00780387">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_average}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1169" w:type="dxa"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRPr="00551C7F" w:rsidRDefault="00EE1D8A" w:rsidP="00EE1D8A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_urban}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:cnfStyle w:val="000010000000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="1" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+			<w:tcW w:w="1170" w:type="dxa"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRPr="00551C7F" w:rsidRDefault="00EE1D8A" w:rsidP="00780387">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_village}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1169" w:type="dxa"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRDefault="00EE1D8A" w:rsidP="00780387">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_male}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:cnfStyle w:val="000010000000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="1" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+			<w:tcW w:w="1170" w:type="dxa"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="008A05F8" w:rsidRDefault="00C100C0" w:rsidP="00780387">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${media_female}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

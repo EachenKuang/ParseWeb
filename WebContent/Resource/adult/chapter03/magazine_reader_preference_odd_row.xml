@@ -1,0 +1,62 @@
+<w:tr w:rsidR="00A862CB" w:rsidTr="002C69C8">
+	<w:trPr>
+		<w:trHeight w:hRule="exact" w:val="397"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2138" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:left w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:right w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+			</w:tcBorders>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+		</w:tcPr>
+		<w:p w:rsidR="00A862CB" w:rsidRDefault="00A862CB" w:rsidP="002C69C8">
+			<w:pPr>
+				<w:jc w:val="center"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="20"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="1" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="1"/>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2592" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:left w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:right w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+			</w:tcBorders>
+		</w:tcPr>
+		<w:p w:rsidR="00A862CB" w:rsidRPr="00E86ADB" w:rsidRDefault="00A862CB" w:rsidP="002C69C8">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="20"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

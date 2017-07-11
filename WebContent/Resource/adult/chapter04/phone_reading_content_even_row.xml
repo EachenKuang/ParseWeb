@@ -1,0 +1,54 @@
+<w:tr w:rsidR="00D55CA4" w:rsidRPr="00F37E75" w:rsidTr="00253FA1">
+	<w:trPr>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2890" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00D55CA4" w:rsidRPr="00F37E75" w:rsidRDefault="00D55CA4" w:rsidP="00E81E17">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00F37E75">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1359" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+		</w:tcPr>
+		<w:p w:rsidR="00D55CA4" w:rsidRPr="00F37E75" w:rsidRDefault="00D55CA4" w:rsidP="00253FA1">
+			<w:pPr>
+				<w:autoSpaceDE w:val="0"/>
+				<w:autoSpaceDN w:val="0"/>
+				<w:adjustRightInd w:val="0"/>
+				<w:spacing w:line="320" w:lineRule="atLeast"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:cs="MingLiU"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00F37E75">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

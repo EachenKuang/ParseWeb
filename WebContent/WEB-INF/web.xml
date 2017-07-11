@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>RestfulDemo</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>MyJsp.jsp</welcome-file>
+	</welcome-file-list>
+	
+	<servlet>
+		<servlet-name>MinorUpLoad</servlet-name>
+		<servlet-class>cn.edu.xmu.software.net.services.MinorUpload</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>MinorUpLoad</servlet-name>
+		<url-pattern>/upload/minor</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>AdultUpLoad</servlet-name>
+		<servlet-class>cn.edu.xmu.software.net.services.AdultUpload</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdultUpLoad</servlet-name>
+		<url-pattern>/upload/adult</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DownLoad</servlet-name>
+		<servlet-class>cn.edu.xmu.software.net.services.DownLoad</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownLoad</servlet-name>
+		<url-pattern>/download</url-pattern>
+	</servlet-mapping>
+</web-app>

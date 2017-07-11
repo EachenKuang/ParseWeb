@@ -1,0 +1,68 @@
+<w:tr w:rsidR="00215DB0" w:rsidTr="00EE5CE3">
+	<w:trPr>
+		<w:trHeight w:hRule="exact" w:val="397"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="4643" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+			</w:tcBorders>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00215DB0" w:rsidRDefault="00215DB0" w:rsidP="00EE5CE3">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1359" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="C0504D"/>
+			</w:tcBorders>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00215DB0" w:rsidRDefault="00215DB0" w:rsidP="00EE5CE3">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

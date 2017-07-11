@@ -1,0 +1,27 @@
+<w:tc>
+	<w:tcPr>
+		<w:tcW w:w="2629" w:type="dxa"/>
+		<w:shd w:val="clear" w:color="auto" w:fill="D3DFEE"/>
+		<w:noWrap/>
+		<w:vAlign w:val="center"/>
+	</w:tcPr>
+	<w:p w14:paraId="74A77613" w14:textId="77777777" w:rsidR="003977CD" w:rsidRPr="003977CD" w:rsidRDefault="003977CD" w:rsidP="003977CD">
+		<w:pPr>
+			<w:widowControl/>
+			<w:jc w:val="center"/>
+			<w:rPr>
+				<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+				<w:kern w:val="0"/>
+				<w:szCs w:val="21"/>
+			</w:rPr>
+		</w:pPr>
+		<w:r w:rsidRPr="003977CD">
+			<w:rPr>
+				<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+				<w:kern w:val="0"/>
+				<w:szCs w:val="21"/>
+			</w:rPr>
+			<w:t>${value}</w:t>
+		</w:r>
+	</w:p>
+</w:tc>

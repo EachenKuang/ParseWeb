@@ -1,0 +1,119 @@
+<w:tr w:rsidR="00E45617" w:rsidTr="0002224A">
+	<w:trPr>
+		<w:trHeight w:val="240"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1570" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="92CDDC"/>
+		</w:tcPr>
+		<w:p w:rsidR="00E45617" w:rsidRDefault="00E45617" w:rsidP="0002224A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1359" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="92CDDC"/>
+		</w:tcPr>
+		<w:p w:rsidR="00E45617" w:rsidRDefault="00E45617" w:rsidP="0002224A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+				<w:t>${preference_degree}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1403" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="92CDDC"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00E45617" w:rsidRDefault="00E45617" w:rsidP="0002224A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+				<w:t>${purchase_rate}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1331" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="92CDDC"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00E45617" w:rsidRDefault="00E45617" w:rsidP="0002224A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+				<w:t>${market_gap_degree}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1369" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="92CDDC"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00E45617" w:rsidRDefault="00E45617" w:rsidP="0002224A">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+				</w:rPr>
+				<w:t>${pre_order_rate}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

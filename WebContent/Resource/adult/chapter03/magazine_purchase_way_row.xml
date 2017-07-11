@@ -1,0 +1,50 @@
+<w:tr w:rsidR="00F51B43" w:rsidTr="00D577FD">
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="3019" w:type="dxa"/>
+		</w:tcPr>
+		<w:p w:rsidR="00F51B43" w:rsidRDefault="00F51B43" w:rsidP="00D577FD">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:cs="Arial"/>
+					<w:b/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:cs="Arial" w:hint="eastAsia"/>
+					<w:b/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="1" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="1"/>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="3077" w:type="dxa"/>
+		</w:tcPr>
+		<w:p w:rsidR="00F51B43" w:rsidRPr="00E86ADB" w:rsidRDefault="00F51B43" w:rsidP="00D577FD">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

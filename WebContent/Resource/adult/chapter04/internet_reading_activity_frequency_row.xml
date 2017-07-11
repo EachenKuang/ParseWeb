@@ -1,0 +1,197 @@
+<w:tr w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidTr="009F7AAC">
+	<w:trPr>
+		<w:trHeight w:hRule="exact" w:val="397"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1636" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:b/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:b/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1195" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_0}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1058" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_1}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1089" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_2}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1226" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_3}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1275" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_4}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1134" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="D2EAF1"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="004753EE" w:rsidRPr="00CB0781" w:rsidRDefault="004753EE" w:rsidP="009F7AAC">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value_5}</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="1" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="1"/>
+		</w:p>
+	</w:tc>
+</w:tr>

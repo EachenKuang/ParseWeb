@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta name="keywords" content="ARDGS,自动报告数据生成系统,自动报告">
+	<meta name="description" content="自动报告数据生成系统">
+	<meta name="author" content="康斌，江贤">
+
+	<link rel="stylesheet" type="text/css" href="index/index.css">
+	<link rel="stylesheet" type="text/css" href="index/loading.css">
+	<script type="text/javascript" src="http://parse-bk.qiniudn.com/jquery.min.js"></script>
+	<script type="text/javascript" src="index/index.js"></script>
+
+	<title>自动报告数据生成系统</title>
+</head>
+<body>
+	<div class="container">																																																																																															
+		<div class="header">自动报告数据生成系统</div>
+		<div class="upload">
+			<div class="adult block">
+				<img src="http://parse-bk.qiniudn.com/excel.png" alt="Adult Excel"/>
+				<form action="upload/adult" method="post" enctype="multipart/form-data">
+					<input class="upload" type="file" name="upload"/>
+					<input class="submit button" type="button" value="解析成年人文档"/>
+				</form>
+			</div>
+			<div class="minor block">
+				<img src="http://parse-bk.qiniudn.com/excel.png" alt="Adult Excel"/>
+				<form action="upload/minor" method="post" enctype="multipart/form-data">
+					<input class="upload" type="file" name="upload"/>
+					<input class="submit button" type="button" value="解析未成年人文档"/>
+				</form>
+			</div>
+		</div>
+		<div class="guide">
+			<div class="title">使用说明：</div>																								
+			<div class="item">1.请先点击Excel的图标，选择您需要上传的Excel文件</div>
+			<div class="item">2.选择好Excel文件之后，请您点击下面的按钮开始解析</div>
+			<div class="item">3.解析需要耗时6～9秒，之后会返回解析好的Word文档</div>
+			<div class="item">4.您可以下载下方的示例文档，然后上传示例文档进行测试</div>
+			<div class="item">5.如果解析过程中出错，请<span class="contact-us">联系我们</span></div>
+			<div class="download">
+				<a href="upload/adult">下载成年人示例Excel</a>
+				<a href="upload/minor">下载未成年人示例Excel</a>
+			</div>
+		</div>
+		<div class="email-contact">
+			<div><span class="hide">隐藏</span></div>
+			<table>
+				<tr>
+					<td class="name"></td>
+					<td>北京数海时代分析技术有限公司  </td>
+					<td class="email">010-80199980</td>
+				</tr>
+				
+			</table>
+		</div>
+		<div class="footer">
+			<a href="http://cips.chinapublish.com.cn/" title="中国新闻出版研究院" target="_blank">中国新闻出版研究院</a>
+		</div>
+		<div class="loading">
+			<div class="windows8">
+				<div class="wBall" id="wBall_1">
+					<div class="wInnerBall"></div>
+				</div>
+				<div class="wBall" id="wBall_2">
+					<div class="wInnerBall"></div>
+				</div>
+				<div class="wBall" id="wBall_3">
+					<div class="wInnerBall"></div>
+				</div>
+				<div class="wBall" id="wBall_4">
+					<div class="wInnerBall"></div>
+				</div>
+				<div class="wBall" id="wBall_5">
+					<div class="wInnerBall"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

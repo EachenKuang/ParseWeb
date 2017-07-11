@@ -1,0 +1,91 @@
+<w:tr w:rsidR="004E7674" w:rsidRPr="00907B34" w:rsidTr="00E721E2">
+	<w:trPr>
+		<w:trHeight w:hRule="exact" w:val="397"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1667" w:type="pct"/>
+			<w:vMerge/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="004E7674" w:rsidRPr="00907B34" w:rsidRDefault="004E7674" w:rsidP="00E721E2">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial"/>
+					<w:b/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1667" w:type="pct"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="004E7674" w:rsidRPr="00907B34" w:rsidRDefault="004E7674" w:rsidP="00E721E2">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial" w:hint="eastAsia"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1666" w:type="pct"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="004E7674" w:rsidRPr="00907B34" w:rsidRDefault="004E7674" w:rsidP="00E721E2">
+			<w:pPr>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial" w:hint="eastAsia"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="1" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="1"/>
+		</w:p>
+	</w:tc>
+</w:tr>

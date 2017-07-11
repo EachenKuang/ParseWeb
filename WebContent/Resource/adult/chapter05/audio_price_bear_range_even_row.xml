@@ -1,0 +1,133 @@
+<w:tr w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidTr="005B37B9">
+	<w:trPr>
+		<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+		<w:trHeight w:val="312"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:cnfStyle w:val="001000000000" w:firstRow="0" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+			<w:tcW w:w="2518" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidRDefault="00384667" w:rsidP="005B37B9">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1418" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidRDefault="00384667" w:rsidP="005B37B9">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${cd}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1417" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidRDefault="00384667" w:rsidP="005B37B9">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${vcd}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1418" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidRDefault="00384667" w:rsidP="005B37B9">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${casete}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1559" w:type="dxa"/>
+			<w:noWrap/>
+			<w:vAlign w:val="center"/>
+			<w:hideMark/>
+		</w:tcPr>
+		<w:p w:rsidR="00CE3EF5" w:rsidRPr="0096603E" w:rsidRDefault="00384667" w:rsidP="005B37B9">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${cdrom}</w:t>
+			</w:r>
+			<w:bookmarkStart w:id="1" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="1"/>
+		</w:p>
+	</w:tc>
+</w:tr>

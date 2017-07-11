@@ -1,0 +1,91 @@
+<w:tr w:rsidR="005C0E68" w:rsidTr="00A061CB">
+	<w:trPr>
+		<w:trHeight w:val="270"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2753" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+		</w:tcPr>
+		<w:p w:rsidR="005C0E68" w:rsidRDefault="005C0E68" w:rsidP="00A061CB">
+			<w:pPr>
+				<w:autoSpaceDE w:val="0"/>
+				<w:autoSpaceDN w:val="0"/>
+				<w:adjustRightInd w:val="0"/>
+				<w:spacing w:line="320" w:lineRule="atLeast"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="宋体"/>
+					<w:b/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:bCs/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1704" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+		</w:tcPr>
+		<w:p w:rsidR="005C0E68" w:rsidRDefault="005C0E68" w:rsidP="00A061CB">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:bCs/>
+					<w:color w:val="000000"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:bCs/>
+					<w:color w:val="000000"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${v1}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1603" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="EFD3D2"/>
+		</w:tcPr>
+		<w:p w:rsidR="005C0E68" w:rsidRDefault="005C0E68" w:rsidP="00A061CB">
+			<w:pPr>
+				<w:widowControl/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+					<w:bCs/>
+					<w:color w:val="000000"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+					<w:bCs/>
+					<w:color w:val="000000"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${v2}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

@@ -1,0 +1,61 @@
+<w:tr w:rsidR="00F13076" w:rsidTr="00B012E2">
+	<w:trPr>
+		<w:trHeight w:val="411"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2900" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="DFA7A6"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00F13076" w:rsidRDefault="00F13076" w:rsidP="00B012E2">
+			<w:pPr>
+				<w:autoSpaceDE w:val="0"/>
+				<w:autoSpaceDN w:val="0"/>
+				<w:adjustRightInd w:val="0"/>
+				<w:spacing w:line="320" w:lineRule="atLeast"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:cs="MingLiU"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="MingLiU" w:hint="eastAsia"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1380" w:type="dxa"/>
+			<w:shd w:val="clear" w:color="auto" w:fill="DFA7A6"/>
+			<w:vAlign w:val="center"/>
+		</w:tcPr>
+		<w:p w:rsidR="00F13076" w:rsidRDefault="00F13076" w:rsidP="00B012E2">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:cs="Arial"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="MingLiU" w:eastAsia="MingLiU" w:hAnsi="MingLiU" w:hint="eastAsia"/>
+					<w:color w:val="000000"/>
+					<w:sz w:val="18"/>
+					<w:szCs w:val="18"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

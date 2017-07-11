@@ -1,0 +1,96 @@
+<w:tr w:rsidR="00637657" w:rsidTr="00BD3FF1">
+				<w:trPr>
+					<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:cnfStyle w:val="001000000000" w:firstRow="0" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+						<w:tcW w:w="1559" w:type="dxa"/>
+						<w:vMerge/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:left w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:bottom w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+						</w:tcBorders>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="00662AC6" w:rsidRDefault="00662AC6">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="auto"/>
+							<w:ind w:firstLine="883"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman"/>
+								<w:b w:val="0"/>
+								<w:bCs w:val="0"/>
+								<w:kern w:val="44"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="3827" w:type="dxa"/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+							<w:bottom w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+						</w:tcBorders>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="00662AC6" w:rsidRDefault="00637657">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="auto"/>
+							<w:jc w:val="center"/>
+							<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman" w:cs="宋体"/>
+								<w:kern w:val="0"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00053F39">
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman" w:cs="宋体" w:hint="eastAsia"/>
+								<w:kern w:val="0"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+							<w:t>${key}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1985" w:type="dxa"/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+							<w:bottom w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+							<w:right w:val="single" w:sz="6" w:space="0" w:color="7BA0CD" w:themeColor="accent1" w:themeTint="BF"/>
+						</w:tcBorders>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="00662AC6" w:rsidRDefault="00637657">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="auto"/>
+							<w:jc w:val="center"/>
+							<w:cnfStyle w:val="000000010000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0" w:evenHBand="1" w:firstRowFirstColumn="0" w:firstRowLastColumn="0" w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman"/>
+								<w:color w:val="000000" w:themeColor="text1"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00053F39">
+							<w:rPr>
+								<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman" w:cs="宋体" w:hint="eastAsia"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+							<w:t>${value}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>

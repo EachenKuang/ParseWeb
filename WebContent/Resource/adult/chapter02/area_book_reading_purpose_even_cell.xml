@@ -1,0 +1,20 @@
+<w:tc>
+	<w:tcPr>
+		<w:tcW w:w="720" w:type="dxa"/>
+		<w:vAlign w:val="center"/>
+	</w:tcPr>
+	<w:p w:rsidR="002170C1" w:rsidRDefault="002170C1" w:rsidP="0069192A">
+		<w:pPr>
+			<w:ind w:rightChars="-21" w:right="-44"/>
+			<w:jc w:val="center"/>
+		</w:pPr>
+		<w:r>
+			<w:rPr>
+				<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="MingLiU" w:hint="eastAsia"/>
+				<w:kern w:val="0"/>
+				<w:szCs w:val="21"/>
+			</w:rPr>
+			<w:t>${rate}</w:t>
+		</w:r>
+	</w:p>
+</w:tc>

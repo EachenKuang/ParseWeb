@@ -1,0 +1,73 @@
+<w:tr w:rsidR="00114001" w:rsidTr="002B6ED1">
+	<w:trPr>
+		<w:trHeight w:hRule="exact" w:val="397"/>
+		<w:jc w:val="center"/>
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2631" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:left w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:right w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+			</w:tcBorders>
+			<w:shd w:val="clear" w:color="auto" w:fill="D3DFEE"/>
+		</w:tcPr>
+		<w:p w:rsidR="00114001" w:rsidRPr="008532A5" w:rsidRDefault="00114001" w:rsidP="002B6ED1">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial" w:hint="eastAsia"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${key}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="2410" w:type="dxa"/>
+			<w:tcBorders>
+				<w:top w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:left w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:bottom w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+				<w:right w:val="single" w:sz="8" w:space="0" w:color="4F81BD"/>
+			</w:tcBorders>
+		</w:tcPr>
+		<w:p w:rsidR="00114001" w:rsidRPr="008532A5" w:rsidRDefault="00114001" w:rsidP="002B6ED1">
+			<w:pPr>
+				<w:widowControl/>
+				<w:spacing w:line="360" w:lineRule="auto"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Arial" w:hint="eastAsia"/>
+					<w:color w:val="000000"/>
+					<w:kern w:val="0"/>
+					<w:szCs w:val="21"/>
+				</w:rPr>
+				<w:t>${value}</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>

@@ -1,0 +1,24 @@
+<w:tc>
+	<w:tcPr>
+		<w:tcW w:w="1701" w:type="dxa"/>
+		<w:vAlign w:val="center"/>
+	</w:tcPr>
+	<w:p w14:paraId="0D26BA89" w14:textId="77777777" w:rsidR="001E45F4" w:rsidRPr="001A0038" w:rsidRDefault="001E45F4" w:rsidP="00250893">
+		<w:pPr>
+			<w:spacing w:line="300" w:lineRule="auto"/>
+			<w:jc w:val="center"/>
+			<w:rPr>
+				<w:rFonts w:ascii="Calibri" w:eastAsia="宋体" w:hAnsi="Calibri" w:cs="Times New Roman"/>
+				<w:sz w:val="24"/>
+				<w:szCs w:val="24"/>
+			</w:rPr>
+		</w:pPr>
+		<w:r w:rsidRPr="001A0038">
+			<w:rPr>
+				<w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+				<w:szCs w:val="21"/>
+			</w:rPr>
+			<w:t>${value}</w:t>
+		</w:r>
+	</w:p>
+</w:tc>
